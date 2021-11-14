@@ -1,2 +1,2 @@
 # Klipper-Backup
-Ender 3 Klipper configuration backup
+ Configuration backup for Ender 3 with 3D-Touch running Klipper and Mainsail
